@@ -65,6 +65,10 @@ void Error_Handler(void);
 #define GREEN_LED_GPIO_Port GPIOA
 #define BLUE_LED_Pin GPIO_PIN_3
 #define BLUE_LED_GPIO_Port GPIOA
+#define SAFE_OUT2_Pin GPIO_PIN_4
+#define SAFE_OUT2_GPIO_Port GPIOA
+#define SAFE_OUT1_Pin GPIO_PIN_7
+#define SAFE_OUT1_GPIO_Port GPIOA
 #define Push_Button_Pin GPIO_PIN_4
 #define Push_Button_GPIO_Port GPIOB
 
